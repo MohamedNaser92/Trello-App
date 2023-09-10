@@ -25,8 +25,9 @@
 4. get all tasks with user data
 5. get all tasks that not done after deadline
 
-- Email: **mohamed.naser.m92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- Email: **mohamed.naser.m92@gmail.com**
+
 <p align="left">
 </p>
