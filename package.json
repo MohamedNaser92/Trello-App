@@ -5,8 +5,10 @@
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
+		"start":"node index.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
+	"engines": {"node":"18.17.1"},
 	"author": "Mohamed Naser",
 	"license": "ISC",
 	"dependencies": {

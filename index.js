@@ -11,7 +11,7 @@ app.use(taskRoutes);
 app.get('/', (req, res) => {
 	res.status(201).json({ message: 'Welcome, Home page' });
 });
-const port = 3000;
+const port = process.env.PPRT || 3000;
 
 app.listen(port, () => {
 	console.log(`App running on port ${port}...`);
